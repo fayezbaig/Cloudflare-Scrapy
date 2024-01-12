@@ -1,0 +1,4 @@
+[
+{"token": "ZAPEX", "name": "ZapExchange", "TRNC": "258", "Volume": "103K", "Liquidity": "54K", "FDV": "91K", "Link": "https://dexscreener.com/ethereum/0xa3dec62cba3dbe03ab068b80739edf9cd11c52b4", "chain": "Ethereum"},
+{"token": "HODL", "name": "VanEck Spot Bitcoin ETF", "TRNC": "137", "Volume": "72K", "Liquidity": "28K", "FDV": "64K", "Link": "https://dexscreener.com/ethereum/0xa96b90c652a58033638a6769a5cbc688ec70da59", "chain": "Ethereum"},
+{"token": "$BTCETF", "name": "Bitcoin ETF", "TRNC": "1,120", "Volume": "163K", "Liquidity": "57K", "FDV": "61K", "Link": "https://dexscreener.com/bsc/0x4146dd9b905e5c81342c1c58d8a5522398b6b45c", "chain": "BSC"}
